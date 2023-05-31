@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDekraYellow">#ADFF2F</color>
+    <color name="colorDarkOrange">#FF8C00</color>
+    <color name="colorForestGreen">#228B22</color>
+    <color name="colorGreen">#008000</color>
+    <color name="lytBlue">#FFBDE5EA</color>
+    <color name="darkBlue">#FF42C6EB</color>
+
+    <color name="appGreen">#64BC4C</color>
+    <color name="appGreenLyt">#D083CA70</color>
+
+</resources>

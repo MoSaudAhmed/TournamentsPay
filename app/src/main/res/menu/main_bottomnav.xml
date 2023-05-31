@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottomNav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottomNav_private"
+        android:icon="@drawable/ic_search_white"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/bottomNav_favourites"
+        android:icon="@drawable/ic_favorite"
+        android:title="Joined" />
+    <item
+        android:id="@+id/bottomNav_notifications"
+        android:icon="@drawable/ic_notifications_icon"
+        android:title="Notifications" />
+</menu>

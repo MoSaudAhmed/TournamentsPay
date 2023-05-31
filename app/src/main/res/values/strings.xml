@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Play360</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">259982861775897</string>
+    <string name="fb_login_protocol_scheme">fb259982861775897</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="APIKEY">eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJkMjg2ZjdmMC1mZTMzLTAxMzYtOTQxOS02ZDZhMjBmMmVkZDgiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNTQ3OTE0NzI3LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6InRvdXJuYW1lbnRzcGF5In0.i-TCXjSLJIVQcwLbFg785wYAtirWz8PKJyW5T9Mey_s</string>
+    <string name="terms_and_conditions_string">I agree with terms and conditions</string>
+    <string name="pendingMessageToUser">Players list will be updated soon after approval of your match join request by Admin</string>
+    <string name="notJoinedMessageToUser">Players list will be shown only after joining the match</string>
+    <string name="rejectedJoinInvitaion">Your request has been rejected</string>
+    <string name="default_notification_channel_id">abc123</string>
+
+    <string-array name="rulesItems">
+        <item>Only players above the age of 13 are allowed to participate.</item>
+        <item>All games are played on PUBG Mobile, the mobile version only. No emulators Allowed</item>
+        <item>All players must be registered members of Play360. Your team will be instantly disqualified if an unregistered player plays in a tournament.</item>
+        <item>Please download all maps and be ready, if you don’t have the map, the match will be started without you.</item>
+        <item>You are found sharing ROOM IDs and PASSWORDs, you will be instantly disqualified and banned from future.</item>
+        <item>Griefing and teaming with enemies will result in instant disqualification and team ban.</item>
+        <item>Hackers will be disqualified instantly. As soon as we suspect a player to be hacking, the team will be disqualified.</item>
+        <item>Threatening or abusing game admins and other players can result in legal actions and bans from upcoming tournaments.</item>
+        <item>Players have to make sure to keep their game updated to latest version.</item>
+        <item>In case of any technical issues from the organizer side, matches can be rescheduled. Players must agree to the new rescheduled time.</item>
+        <item>Admins reserves all rights to change the match timings and rules if required.</item>
+        <item>We have a lot of spectators watching to ensure cheating doesn’t take place in the tournaments.</item>
+        <item>UNREGISTERED PLAYERS will not be entertained in tournaments, and could result in a team ban or player ban. Do not bring random friends into tournaments.</item>
+    </string-array>
+
+    <string-array name="aaItems">
+        <item>None</item>
+        <item>All WEAPONS</item>
+        <item>TDM</item>
+    </string-array>
+
+    <string-array name="passwordTimeItems">
+        <item>Select</item>
+        <item>no password</item>
+        <item>5 mins before match</item>
+        <item>10 mins before match</item>
+        <item>15 mins before match</item>
+    </string-array>
+
+    <string-array name="serverItems">
+        <item>Select</item>
+        <item>ASIA</item>
+        <item>MIDDLE EAST</item>
+        <item>EUROPE</item>
+        <item>SOUTH AMERICA</item>
+        <item>NORTH AMERICA</item>
+    </string-array>
+
+    <string-array name="mapItems">
+        <item>Select</item>
+        <item>Erangle</item>
+        <item>Miramar</item>
+        <item>Vikindi</item>
+        <item>Senhok</item>
+    </string-array>
+
+    <string-array name="modeItems">
+        <item>Select</item>
+        <item>FTP</item>
+        <item>TPP</item>
+    </string-array>
+
+    <string-array name="typeItems">
+        <item>Select</item>
+        <item>SOLO</item>
+        <item>DUO</item>
+        <item>SQUAD</item>
+    </string-array>
+
+
+</resources>
